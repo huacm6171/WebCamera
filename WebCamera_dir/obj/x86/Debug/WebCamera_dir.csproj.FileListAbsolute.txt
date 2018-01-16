@@ -1,0 +1,12 @@
+D:\360Downloads\CSharp\WebCamera\WebCamera_dir\bin\Debug\WebCamera_dir.exe
+D:\360Downloads\CSharp\WebCamera\WebCamera_dir\bin\Debug\WebCamera_dir.pdb
+D:\360Downloads\CSharp\WebCamera\WebCamera_dir\bin\Debug\Interop.AXVLC.dll
+D:\360Downloads\CSharp\WebCamera\WebCamera_dir\bin\Debug\AxInterop.AXVLC.dll
+D:\360Downloads\CSharp\WebCamera\WebCamera_dir\obj\x86\Debug\Interop.AXVLC.dll
+D:\360Downloads\CSharp\WebCamera\WebCamera_dir\obj\x86\Debug\AxInterop.AXVLC.dll
+D:\360Downloads\CSharp\WebCamera\WebCamera_dir\obj\x86\Debug\WebCamera_dir.csproj.ResolveComReference.cache
+D:\360Downloads\CSharp\WebCamera\WebCamera_dir\obj\x86\Debug\WebCamera_dir.WebCamera.resources
+D:\360Downloads\CSharp\WebCamera\WebCamera_dir\obj\x86\Debug\WebCamera_dir.Properties.Resources.resources
+D:\360Downloads\CSharp\WebCamera\WebCamera_dir\obj\x86\Debug\WebCamera_dir.csproj.GenerateResource.Cache
+D:\360Downloads\CSharp\WebCamera\WebCamera_dir\obj\x86\Debug\WebCamera_dir.exe
+D:\360Downloads\CSharp\WebCamera\WebCamera_dir\obj\x86\Debug\WebCamera_dir.pdb

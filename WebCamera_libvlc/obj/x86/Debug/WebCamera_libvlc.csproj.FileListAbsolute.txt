@@ -1,0 +1,6 @@
+D:\360Downloads\CSharp\WebCamera\WebCamera_libvlc\bin\Debug\WebCamera_libvlc.exe
+D:\360Downloads\CSharp\WebCamera\WebCamera_libvlc\bin\Debug\WebCamera_libvlc.pdb
+D:\360Downloads\CSharp\WebCamera\WebCamera_libvlc\obj\x86\Debug\WebCamera_libvlc.Properties.Resources.resources
+D:\360Downloads\CSharp\WebCamera\WebCamera_libvlc\obj\x86\Debug\WebCamera_libvlc.csproj.GenerateResource.Cache
+D:\360Downloads\CSharp\WebCamera\WebCamera_libvlc\obj\x86\Debug\WebCamera_libvlc.exe
+D:\360Downloads\CSharp\WebCamera\WebCamera_libvlc\obj\x86\Debug\WebCamera_libvlc.pdb
